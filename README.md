@@ -1,7 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=MuadAlpion.MuadAlpion" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=anuphapth.anuphapth" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muad!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anuphap+Thianprayoon" />
 </h1>
 
 <h3 align="center">A passionate software developer from Thailand 🇹🇭</h3>
@@ -39,7 +39,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MuadAlpion/MuadAlpion/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/anuphapth/anuphapth/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
   
@@ -53,7 +53,7 @@
 <div align=center>
 
   <img width=390 
-       src="https://github-readme-streak-stats.herokuapp.com?user=MuadAlpion&theme=react&border_radius=10" 
+       src="https://github-readme-streak-stats.herokuapp.com?user=anuphapth&theme=react&border_radius=10" 
        alt="streak stats"/>
 </div>
 
