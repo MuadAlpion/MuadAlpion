@@ -37,8 +37,8 @@
 </div>
 
 <div align="center" style="width: 100%; max-width: 900px; margin: auto;">
-  <hr style="width: 30%; margin-bottom: 8px;" />
-  <h3>Languages Graph</h3>
+  <hr style="width: 30%; margin-bottom: 10px;" />
+  <h2>Languages Graph</h2>
 
   <picture>
     <source 
@@ -51,7 +51,7 @@
     />
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=anuphapth&layout=compact&langs_count=20&theme=default&hide_border=true"
-      style="width: 50%; height: auto;"
+      style="width: 40%; height: auto;"
     />
   </picture>
 </div>
