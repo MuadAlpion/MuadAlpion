@@ -6,17 +6,14 @@
 
 <h1 align="center">
   <picture>
-    <!-- Dark theme -->
     <source 
       srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=500&height=70&duration=3000&pause=2500&color=FFFFFF&lines=Hi+I'm+Anuphap+Thianprayoon" 
       media="(prefers-color-scheme: dark)" 
     />
-    <!-- Light theme -->
     <source 
       srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=500&height=70&duration=3000&pause=2500&color=000000&lines=Hi+I'm+Anuphap+Thianprayoon" 
       media="(prefers-color-scheme: light)" 
     />
-    <!-- fallback -->
     <img 
       src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=500&height=70&duration=3000&pause=2500&color=000000&lines=Hi+I'm+Anuphap+Thianprayoon" 
     />
@@ -26,12 +23,50 @@
 <h3 align="left">A passionate software developer from Thailand 🇹🇭</h3>
 
 <div align="left">
-    <p>Contact me at <a href="mailto:anuphap2003118@gmail.com">anuphap.thianprayoon@gmail.com</a></p>
+  <p>My Portfolio
+    <a href="https://anuphap-portfolio.onrender.com/">
+      Click Here to view
+    </a>
+  </p>
+  
+  <p>Contact me at 
+    <a href="mailto:anuphap.thianprayoon@gmail.com">
+      anuphap.thianprayoon@gmail.com
+    </a>
+  </p>
 </div>
 
+<div align="center" style="width: 100%; max-width: 900px; margin: auto;">
+  <hr style="width: 30%; margin-bottom: 8px;" />
+  <h3>Languages Graph</h3>
+
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anuphapth&layout=compact&langs_count=20&theme=dracula&hide_border=true" 
+      media="(prefers-color-scheme: dark)" 
+    />
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anuphapth&layout=compact&langs_count=20&theme=default&hide_border=true" 
+      media="(prefers-color-scheme: light)" 
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=anuphapth&layout=compact&langs_count=20&theme=default&hide_border=true"
+      style="width: 35%; height: auto;"
+    />
+  </picture>
+</div>
+
+<br>
+
 <div align="center">
+  <hr style="width: 30%; margin-bottom: 8px;" />
   <h2>My Contributions</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/anuphapth/anuphapth/output/github-contribution-grid-snake.svg" />
+
+<img 
+ src="https://raw.githubusercontent.com/anuphapth/anuphapth/output/github-contribution-grid-snake.svg" 
+ alt="contribution graph"
+/>
+
 </div>
 
 <hr/>
