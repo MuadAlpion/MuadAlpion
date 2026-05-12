@@ -36,28 +36,6 @@
   </p>
 </div>
 
-<div align="center" style="width: 100%; max-width: 900px; margin: auto;">
-  <hr style="width: 30%; margin-bottom: 10px;" />
-  <h2>Languages Graph</h2>
-
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anuphapth&layout=compact&langs_count=20&theme=dracula&hide_border=true" 
-      media="(prefers-color-scheme: dark)" 
-    />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=anuphapth&layout=compact&langs_count=20&theme=default&hide_border=true" 
-      media="(prefers-color-scheme: light)" 
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=anuphapth&layout=compact&langs_count=20&theme=default&hide_border=true"
-      style="width: 40%; height: auto;"
-    />
-  </picture>
-</div>
-
-<br>
-
 <div align="center">
   <hr style="width: 30%; margin-bottom: 8px;" />
   <h2>My Contributions</h2>
