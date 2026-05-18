@@ -7,15 +7,15 @@
 <h1 align="center">
   <picture>
     <source 
-      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=500&height=70&duration=3000&pause=2500&color=FFFFFF&lines=Hi+I'm+Anuphap+Thianprayoon" 
+      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=31&center=true&width=500&height=70&duration=3000&pause=2500&color=FFFFFF&lines=Hi+I'm+Anuphap+Thianprayoon;Web+Developer+|+Software+Engineer" 
       media="(prefers-color-scheme: dark)" 
     />
     <source 
-      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=500&height=70&duration=3000&pause=2500&color=000000&lines=Hi+I'm+Anuphap+Thianprayoon" 
+      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=31&center=true&width=500&height=70&duration=3000&pause=2500&color=000000&lines=Hi+I'm+Anuphap+Thianprayoon;Web+Developer+|+Software+Engineer" 
       media="(prefers-color-scheme: light)" 
     />
     <img 
-      src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=500&height=70&duration=3000&pause=2500&color=000000&lines=Hi+I'm+Anuphap+Thianprayoon" 
+      src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=31&center=true&width=500&height=70&duration=3000&pause=2500&color=000000&lines=Hi+I'm+Anuphap+Thianprayoon;Web+Developer+|+Software+Engineer" 
     />
   </picture>
 </h1>
